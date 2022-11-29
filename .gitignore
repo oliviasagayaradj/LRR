@@ -1,0 +1,12 @@
+assemblies/
+badcodons/
+cds/
+cds_test/
+gff/
+hvNLR/
+lrrpred/
+orthogroup_cds/
+orthogroup_intron_map/
+orthogroup_intron_map_LRR/
+orthogroup_LRR/
+
